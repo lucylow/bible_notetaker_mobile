@@ -11,6 +11,11 @@
 
 ---
 
+![](https://github.com/lucylow/bible_notetaker_mobile/blob/main/wewe.png?raw=true)
+![](https://github.com/lucylow/bible_notetaker_mobile/blob/main/vcv.png?raw=true)
+
+![](https://github.com/lucylow/bible_notetaker_mobile/blob/main/trtr.png?raw=true)
+
 ## Table of Contents
 
 - [Overview](#overview)
