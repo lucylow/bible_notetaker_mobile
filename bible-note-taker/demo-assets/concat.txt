@@ -1,0 +1,5 @@
+file '/home/ubuntu/bible-note-taker/demo-assets/clips/clip-0.mp4'
+file '/home/ubuntu/bible-note-taker/demo-assets/clips/clip-1.mp4'
+file '/home/ubuntu/bible-note-taker/demo-assets/clips/clip-2.mp4'
+file '/home/ubuntu/bible-note-taker/demo-assets/clips/clip-3.mp4'
+file '/home/ubuntu/bible-note-taker/demo-assets/clips/clip-4.mp4'
